@@ -1,0 +1,15 @@
+DROP TABLE IF EXISTS record;
+
+DROP TABLE IF EXISTS theatre_user;
+
+DROP TABLE IF EXISTS theatre;
+
+DROP TABLE IF EXISTS notification;
+
+DROP TABLE IF EXISTS user_preferences;
+
+DROP TABLE IF EXISTS users;
+
+DROP TABLE IF EXISTS genre;
+
+DROP TABLE IF EXISTS movie;
